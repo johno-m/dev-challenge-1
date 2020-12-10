@@ -11,6 +11,10 @@ body, html {
     color: #4F4F4F;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 button {
     background: #333333;
     color: white;
@@ -20,8 +24,4 @@ button {
     line-height: 21px;
     text-align: left;
     padding: 1rem, 2rem;
-}
-
-* {
-    box-sizing: border-box;
 }
