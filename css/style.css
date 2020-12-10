@@ -17,6 +17,7 @@ body, html {
 
 button {
     background: #333333;
+    text-decoration: none;
     color: white;
     font-size: 14px;
     font-style: normal;
@@ -24,4 +25,8 @@ button {
     line-height: 21px;
     text-align: left;
     padding: 1rem, 2rem;
+}
+
+* {
+    box-sizing: border-box;
 }
